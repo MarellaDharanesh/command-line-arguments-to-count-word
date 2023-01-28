@@ -38,8 +38,13 @@ print("word count in file = ",count)
 ```
 ### OUTPUT:
 # TextFile:
+![cmd output](https://user-images.githubusercontent.com/118707669/215251597-11409c58-730a-4924-bfd3-42ed25edcd57.png)
 
 # Pythonflie:
+![215007347-aca69f43-cfff-4ea8-83d6-e51538cf06cc](https://user-images.githubusercontent.com/118707669/215252921-ae92e07e-aa27-486a-a650-aef58b6f556a.png)
+
+![214853117-e07ba12c-ccbd-4383-822b-7f309869b434](https://user-images.githubusercontent.com/118707669/215252926-acc2b509-779a-46cf-924e-b22bd354e321.png)
+
 
 
 ## RESULT:
