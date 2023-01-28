@@ -12,7 +12,7 @@ Import the sys module.
 Pass the filename as the first argument after the name of script. Open the file as sys.argv[1]
 
 #Step 3:
-Read the file using read() method.
+Read the file using read() method
 
 #Step 4:
 Use split() method to split the file content into words.
